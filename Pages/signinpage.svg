@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2989"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="signinpage.svg">
+  <defs
+     id="defs2991" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="495.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2994">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="130.46596"
+       y="446.64789"
+       id="text2997"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="130.46596"
+         y="446.64789">Name</tspan></text>
+    <rect
+       style="fill:#ffff00"
+       id="rect3001"
+       width="300"
+       height="77.14286"
+       x="402.85712"
+       y="383.79074"
+       ry="38.57143" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="65.238556"
+       y="540.93365"
+       id="text3003"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="65.238556"
+         y="540.93365"
+         id="tspan3007">Wedding Date</tspan></text>
+    <rect
+       style="fill:#ffff00"
+       id="rect3011"
+       width="311.42856"
+       height="74.285713"
+       x="397.14285"
+       y="492.36218"
+       ry="37.142857" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="68.571426"
+       y="652.36218"
+       id="text3013"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3015"
+         x="68.571426"
+         y="652.36218">Ends on</tspan></text>
+    <rect
+       style="fill:#ffff00"
+       id="rect3011-8"
+       width="311.42856"
+       height="74.285713"
+       x="398.57141"
+       y="603.79077"
+       ry="37.142857" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="65.714287"
+       y="763.79071"
+       id="text3054"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3056"
+         x="65.714287"
+         y="763.79071">Password</tspan></text>
+    <rect
+       style="fill:#ffff00"
+       id="rect3011-8-8"
+       width="311.42856"
+       height="74.285713"
+       x="398.57144"
+       y="720.93365"
+       ry="37.142857" />
+    <rect
+       style="fill:#9ade00"
+       id="rect3078"
+       width="740.00006"
+       height="137.14285"
+       x="2.8571427"
+       y="3.7907541"
+       ry="39.619045"
+       rx="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#005c94;fill-opacity:1;stroke:none;font-family:Latin Modern Mono Slanted;-inkscape-font-specification:Latin Modern Mono Slanted Bold"
+       x="368.29517"
+       y="95.21933"
+       id="text3080"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3082"
+         x="368.29517"
+         y="95.21933"
+         style="font-size:100px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeX Gyre Chorus;-inkscape-font-specification:TeX Gyre Chorus Bold Italic">Wedding Planner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b50000;fill-opacity:1;stroke:none;font-family:TeX Gyre Bonum Math;-inkscape-font-specification:TeX Gyre Bonum Math"
+       x="242.85713"
+       y="269.50504"
+       id="text3084"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3086"
+         x="242.85713"
+         y="269.50504">Signup</tspan></text>
+    <rect
+       style="fill:#ff4141"
+       id="rect3088"
+       width="228.57143"
+       height="80"
+       x="88.571426"
+       y="889.50507"
+       ry="39.619045" />
+    <rect
+       style="fill:#ff4141"
+       id="rect3088-2"
+       width="228.57143"
+       height="80"
+       x="428.57144"
+       y="886.64789"
+       ry="39.619045" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold Italic"
+       x="162.85715"
+       y="943.79077"
+       id="text3108"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3110"
+         x="162.85715"
+         y="943.79077">OK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold Italic"
+       x="474.28571"
+       y="938.07648"
+       id="text3112"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3114"
+         x="474.28571"
+         y="938.07648">Cancle</tspan></text>
+  </g>
+</svg>
